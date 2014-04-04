@@ -25,17 +25,17 @@ proyecto o trabajo de investigación.
  Si simplemente se desea escribir texto normal en LaTeX,
  sin complicadas fórmmulas matemáticas o efectos especiales
  como cambios de fuente, entonces simplemente tiene que escribir
- en español normalmente.
+ en español normalmente.\par
  Si se desea cambiar de párrafo ha de dejar una línea en blanco o bien 
- utilizar el comando \par
+ utilizar el comando. \par
  No es necesario preocuparse cde la sangría de los párrafos:
  todos los párrafos se sangrarán automáticamente con la expresión
- del primer párrafo de una sección.
+ del primer párrafo de una sección.\par
  Se ha de distinguir entre la comilla simple 'izquierda'
- y la comilla simple 'derecha' cuando se escribe en el ordenador.
+ y la comilla simple 'derecha' cuando se escribe en el ordenador.\par
  En el caso de que se quiera utilizar comillas dobles se han de 
  escribir dos caracteres 'comilla simple' seguidos, esto es,
- ''comillas dobles''.
+ ''comillas dobles''.\par
  También se ha de tener cuidado con los guiones: se utiliza un único
  guión para la separación de sílabas, mientras que se utilizan
  tres guines seguidos para producir un gruión de los que se usan

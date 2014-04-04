@@ -1,19 +1,27 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Chapter 2: Fundamentos Te�ricos 
+% Chapter 2: Fundamentos Teóricos 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-En este cap�tulo se han de presentar los antecedentes te�ricos y pr�cticos que
-apoyan el tema objeto de la investigaci�n.
+En este capítulo se han de presentar los antecedentes teóricos y prácticos que
+apoyan el tema objeto de la investigación.
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-\section{Primer apartado del segundo cap�tulo}
+\section{Primer apartado del segundo capítulo}
 \label{2:sec:1}
-  Primer p�rrafo de la primera secci�n.
+  Primer párrafo de la primera sección.
 
-\section{Segundo apartado del segundo cap�tulo}
+\section{Segundo apartado del segundo capítulo}
 \label{2:sec:2}
-  Primer p�rrafo de la segunda secci�n.
+  Primer párrafo de la segunda sección.
 
+  En \LaTeX{}~\cite{Lam:86} es sencillo escribir expresiones
+  matemáticas como $a=\sum_{i=1}^{10} {x_i}^{3}$
+  y deben ser escritas entre dos simbolos \$.
+  Los superindices se obtienen con el simbolo \^{}, y
+  los subindices con el simbolo \_.
+  Por ejemplo: $x^2 \times y^{\alpha + \beta}$.
+  También se puede escribir fórmulas centradas:
+  \[h^2=a^2+b^2\]
