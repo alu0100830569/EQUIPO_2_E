@@ -1,16 +1,16 @@
 \select@language {spanish}
 \contentsline {chapter}{\numberline {1}Motivaci\IeC {\'o}n y objetivos}{1}
-\contentsline {section}{\numberline {1.1}Secci\IeC {\'o}n Uno}{1}
-\contentsline {section}{\numberline {1.2}Secci\IeC {\'o}n Dos}{1}
-\contentsline {chapter}{\numberline {2}Fundamentos te\IeC {\'o}ricos}{2}
-\contentsline {section}{\numberline {2.1}Primer apartado del segundo cap\IeC {\'\i }tulo}{2}
-\contentsline {section}{\numberline {2.2}Segundo apartado del segundo cap\IeC {\'\i }tulo}{2}
-\contentsline {chapter}{\numberline {3}Procedimiento experimental}{3}
-\contentsline {section}{\numberline {3.1}Descripci\IeC {\'o}n de los experimentos}{3}
-\contentsline {section}{\numberline {3.2}Descripci\IeC {\'o}n del material}{3}
-\contentsline {section}{\numberline {3.3}Resultados obtenidos}{3}
-\contentsline {section}{\numberline {3.4}An\IeC {\'a}lisis de los resultados}{3}
-\contentsline {chapter}{\numberline {4}Conclusiones}{5}
+\contentsline {section}{\numberline {1.1}Secci\IeC {\'o}n Uno: \textlatin {\LaTeX }}{1}
+\contentsline {section}{\numberline {1.2}Secci\IeC {\'o}n Dos: BEAMER}{1}
+\contentsline {chapter}{\numberline {2}Fundamentos te\IeC {\'o}ricos}{3}
+\contentsline {section}{\numberline {2.1}Primer apartado del segundo cap\IeC {\'\i }tulo}{3}
+\contentsline {section}{\numberline {2.2}Segundo apartado del segundo cap\IeC {\'\i }tulo}{3}
+\contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
+\contentsline {section}{\numberline {3.1}Descripci\IeC {\'o}n de los experimentos}{4}
+\contentsline {section}{\numberline {3.2}Descripci\IeC {\'o}n del material}{4}
+\contentsline {section}{\numberline {3.3}Resultados obtenidos}{4}
+\contentsline {section}{\numberline {3.4}An\IeC {\'a}lisis de los resultados}{4}
+\contentsline {chapter}{\numberline {4}Conclusiones}{6}
 \contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\IeC {\'e}ndice 1}{7}
 \contentsline {section}{\numberline {A.1}Algoritmo XXX}{7}
 \contentsline {section}{\numberline {A.2}Algoritmo YYY}{7}

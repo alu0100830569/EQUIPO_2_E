@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  4 APR 2014 10:16
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  10 APR 2014 12:25
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -368,16 +368,21 @@ File: images/logotipo-secundario-ULL.eps Graphic file (type eps)
 
 <images/logotipo-secundario-ULL.eps>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 111.
+(Font)              <14.4> on input line 112.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 111.
+(Font)              <7> on input line 112.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 112
+.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 114.
+(Font)              <10.95> on input line 115.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 114.
+(Font)              <8> on input line 115.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 114.
- [1
+(Font)              <6> on input line 115.
+[1
 
 ] [2
 
@@ -407,27 +412,34 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Cap\'{\i }tulo 1.
-(./tex/cap1.tex) [1
+(./tex/cap1.tex
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 5.
+ (/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 5.
+ [1
 
-]
+])
+[2]
 Cap\'{\i }tulo 2.
-(./tex/cap2.tex) [2
+(./tex/cap2.tex) [3
 
 ]
 Cap\'{\i }tulo 3.
 (./tex/cap3.tex
 File: images/figura1.eps Graphic file (type eps)
- <images/figura1.eps> (./tables/table.tex)) [3
+ <images/figura1.eps> (./tables/table.tex)) [4
 
-] [4]
+] [5]
 Cap\'{\i }tulo 4.
-(./tex/cap4.tex) [5
-
-] [6
+(./tex/cap4.tex) [6
 
 ]
 Ap\'{e}ndice A.
 (./tex/apendice1.tex) [7
+
 
 ]
 Ap\'{e}ndice B.
@@ -437,12 +449,12 @@ Ap\'{e}ndice B.
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1925 strings out of 495062
- 22431 string characters out of 1182644
+ 1944 strings out of 495062
+ 22741 string characters out of 1182644
  77282 words of memory out of 3000000
- 5048 multiletter control sequences out of 15000+50000
- 13237 words of font info for 48 fonts, out of 3000000 for 9000
+ 5064 multiletter control sequences out of 15000+50000
+ 13891 words of font info for 50 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,27p,208b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,8n,27p,617b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (17 pages, 15508 bytes).
+Output written on memte.dvi (17 pages, 16668 bytes).
