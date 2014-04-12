@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  10 APR 2014 12:25
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  12 APR 2014 13:42
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -413,20 +413,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 Cap\'{\i }tulo 1.
 (./tex/cap1.tex
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 5.
- (/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 5.
- [1
+Overfull \hbox (5.0853pt too wide) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 video-proyec-tor. BEAM-ER es una clase de L[]T[]X para la cr
+eaci^^Son de pre-senta-ciones.Funciona
+ []
 
-])
-[2]
-Cap\'{\i }tulo 2.
-(./tex/cap2.tex) [3
+) [1
 
 ]
+Cap\'{\i }tulo 2.
+(./tex/cap2.tex [2
+
+]) [3]
 Cap\'{\i }tulo 3.
 (./tex/cap3.tex
 File: images/figura1.eps Graphic file (type eps)
@@ -449,12 +447,12 @@ Ap\'{e}ndice B.
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1944 strings out of 495062
- 22741 string characters out of 1182644
+ 1935 strings out of 495062
+ 22575 string characters out of 1182644
  77282 words of memory out of 3000000
- 5064 multiletter control sequences out of 15000+50000
+ 5058 multiletter control sequences out of 15000+50000
  13891 words of font info for 50 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,27p,617b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,8n,27p,1028b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (17 pages, 16668 bytes).
+Output written on memte.dvi (17 pages, 18516 bytes).

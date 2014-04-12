@@ -2,9 +2,9 @@
 \contentsline {chapter}{\numberline {1}Motivaci\IeC {\'o}n y objetivos}{1}
 \contentsline {section}{\numberline {1.1}Secci\IeC {\'o}n Uno: \textlatin {\LaTeX }}{1}
 \contentsline {section}{\numberline {1.2}Secci\IeC {\'o}n Dos: BEAMER}{1}
-\contentsline {chapter}{\numberline {2}Fundamentos te\IeC {\'o}ricos}{3}
-\contentsline {section}{\numberline {2.1}Primer apartado del segundo cap\IeC {\'\i }tulo}{3}
-\contentsline {section}{\numberline {2.2}Segundo apartado del segundo cap\IeC {\'\i }tulo}{3}
+\contentsline {chapter}{\numberline {2}Fundamentos te\IeC {\'o}ricos}{2}
+\contentsline {section}{\numberline {2.1}Interpolaci\IeC {\'o}n Polin\IeC {\'o}mica}{2}
+\contentsline {section}{\numberline {2.2}C\IeC {\'a}lculo del polinomio interpolador de Newton}{2}
 \contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
 \contentsline {section}{\numberline {3.1}Descripci\IeC {\'o}n de los experimentos}{4}
 \contentsline {section}{\numberline {3.2}Descripci\IeC {\'o}n del material}{4}

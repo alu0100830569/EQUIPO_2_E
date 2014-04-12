@@ -9,19 +9,14 @@ apoyan el tema objeto de la investigación.
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-\section{Primer apartado del segundo capítulo}
+\section{Interpolación Polinómica}
 \label{2:sec:1}
-  Primer párrafo de la primera sección.
+En análisis numérico, la interpolación polinomial es una técnica de interpolación de un conjunto de datos o de una función por un polinomio. Es decir, asumimos que sólo se conoce la imagen de una función en un número finito de abscisas. En muchos de los casos, ni siquiera se conocerá la expresión de la función.\par El objetivo de esta técnica es el de hallar un polinomio que tome los valores antes mencionados y que permita hallar aproximaciones de otros desconocidos para la función con una precisión deseable fijada. Para segurar la precisión del polinomio se dispondrá de una fórmula del error de interpolación que permitirá ajustarlo.
 
-\section{Segundo apartado del segundo capítulo}
+\section{Cálculo del polinomio interpolador de Newton}
 \label{2:sec:2}
-  Primer párrafo de la segunda sección.
-
-  En \LaTeX{}~\cite{Lamport:LDP94} es sencillo escribir expresiones
-  matemáticas como $a=\sum_{i=1}^{10} {x_i}^{3}$
-  y deben ser escritas entre dos simbolos \$.
-  Los superindices se obtienen con el simbolo \^{}, y
-  los subindices con el simbolo \_.
-  Por ejemplo: $x^2 \times y^{\alpha + \beta}$.
-  También se puede escribir fórmulas centradas:
-  \[h^2=a^2+b^2\]
+  Existen varios métodos generales de interpolación polinómica que permiten aproximar una función por medio de un polinomio de grado m. En este informe, se recogerá exclusivamente el método de las diferencias divididas de Newton.\par Definición: Sea $f_{n}$  una variable discreta de n  elementos y sea $x_{n}$ otra variable discreta de n elementos los cuales corresponden, por parejas, a la imagen y abcisa de los datos que se quieran interpolar tales que:
+  \[f(x_{k})=f_{k}, \hspace{0.5 cm} k=1,...,n\]\par
+  Este método es muy cómodo en aquellos casos en los que el grado del polinomio que se quiere calcular es bastante elevado.\par El polinomio de grado n-1  resultante tendrá la forma:
+  \[\sum_{i=0}^{n-1} {a_j}{g_j}(x)\]\par Donde:\par \[ g_{j}=\prod_{j=1}^{j-1}{(x-x_{i})}\]\par
+  \[ a_{j}=f[x_{0},x_{1},...,x_{j-1},x_{j},]\]\par Los coeficientes $a_{j}$ son las llamadas diferencias divididas
