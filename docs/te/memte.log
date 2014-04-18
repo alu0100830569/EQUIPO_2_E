@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  12 APR 2014 19:38
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  18 APR 2014 20:03
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -436,23 +436,35 @@ Cap\'{\i }tulo 4.
 
 ]
 Ap\'{e}ndice A.
-(./tex/apendice1.tex) [7
+(./tex/apendice1.tex [7
 
 
 ]
-Ap\'{e}ndice B.
-(./tex/apendice2.tex) (./memte.bbl [8
+Overfull \hbox (7.90361pt too wide) in paragraph at lines 107--107
+[]\OT1/cmtt/m/n/9 # DESCRIPCION: Este ^^Sultimo c^^Sodigo nos ayuda a mostar po
+r pantalla el polinomio que buscamos,[] 
+ []
 
-]) [9
+
+Overfull \hbox (22.07845pt too wide) in paragraph at lines 107--107
+[]\OT1/cmtt/m/n/9 para ello importamos la funci^^Son anterior que nos calculaba
+ las diferencias divididas de Newton.[] 
+ []
+
+) [8]
+Ap\'{e}ndice B.
+(./tex/apendice2.tex) (./memte.bbl [9
+
+]) [10
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1935 strings out of 495062
- 22575 string characters out of 1182644
+ 1936 strings out of 495062
+ 22590 string characters out of 1182644
  78282 words of memory out of 3000000
- 5058 multiletter control sequences out of 15000+50000
+ 5059 multiletter control sequences out of 15000+50000
  13891 words of font info for 50 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,27p,1028b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,8n,27p,1028b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (17 pages, 20824 bytes).
+Output written on memte.dvi (18 pages, 24320 bytes).

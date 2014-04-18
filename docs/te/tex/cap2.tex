@@ -15,12 +15,14 @@ En análisis numérico, la interpolación polinomial es una técnica de interpol
 
 \section{Cálculo del polinomio interpolador de Newton}
 \label{2:sec:2}
-  Existen varios métodos generales de interpolación polinómica que permiten aproximar una función por medio de un polinomio de grado m. En este informe, se recogerá exclusivamente el método de las diferencias divididas de Newton.\par Definición: Sea $f_{n}$  una variable discreta de n  elementos y sea $x_{n}$ otra variable discreta de n elementos los cuales corresponden, por parejas, a la imagen y abcisa de los datos que se quieran interpolar tales que:
+  Existen varios métodos generales de interpolación polinómica que permiten aproximar una función por medio de un polinomio de grado m. En este informe, se recogerá exclusivamente el método de las diferencias divididas de Newton.\par Definición: Sea $f_{n}$  una variable discreta de n  elementos y sea $x_{n}$ otra variable discreta de n elementos los cuales corresponden a la imagen y la abcisa de los datos que se quieran interpolar:
   \[f(x_{k})=f_{k}, \hspace{0.5 cm} k=1,...,n\]\par
-  Una gran ventaja sobre la forma clásica de Lagrange es que podemos agregar un mayor número de nodos a la tabla de datos, lo que no facilitará en gran medida el cálculo del polinomioEste método es muy cómodo en aquellos casos en los que el grado del polinomio que se quiere calcular es bastante elevado.\par El polinomio de grado n-1  resultante tendrá la forma:
+  Una gran ventaja sobre la forma clásica de Lagrange es que podemos agregar un mayor número de nodos a la tabla de datos, lo que nos facilitará en gran medida el cálculo del polinomio, sobretodo, en aquellos casos en los que el grado del polinomio que se quiere calcular es bastante elevado.\par Pongamos un ejemplo: el polinomio de grado n-1  resultante de aplicar este método, tendrá la forma:
   \[\sum_{i=0}^{n-1} {a_j}{g_j}(x)\]\par Donde:\par \[ g_{j}=\prod_{j=1}^{j-1}{(x-x_{i})}\]\par
-  \[ a_{j}=f[x_{0},x_{1},...,x_{j-1},x_{j},]\]\par Los coeficientes $a_{j}$ son las llamadas diferencias divididas. El cálculo de estas diferencias es el paso que caracteriza este método. Tenemos que las diferencias divididas serían de la forma siguiente:\par
+  \[ a_{j}=f[x_{0},x_{1},...,x_{j-1},x_{j},]\]\par Los coeficientes $a_{j}$ son las llamadas diferencias divididas. El cálculo de estas diferencias es el paso que caracteriza este método. Tenemos que las diferencias divididas serían de la forma siguiente:\par\par
   
+  
+  \par
   \begin{tabular}{|c|c|c|c|c|c|}
      \hline
      i & $x_{i}$ & $f[x_{i}]$ & $f[x_{i},x_{i+1}]$ & $f[x_{i}, x_{i+1}, x_{i+2}]$ & $f[x_{i},x_{i+1}, x_{i+2}, x_{i+3}]$ \\
