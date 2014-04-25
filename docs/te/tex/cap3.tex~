@@ -1,50 +1,33 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Chapter 3: Procedimiento experimental 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-Este cap韙ulo ha de contar con seccciones para la descripci髇 de los experimentos 
-y del material.
-%
-Tambi閚 debe haber una secci髇 para los resultados obtenidos y una 鷏tima de 
-an醠isis de los resultados.
-
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-\section{Descripci髇 de los experimentos}
+\section{Descripci贸n de los experimentos}
 \label{3:sec:1}
-
-bla, bla, etc. 
+El experimento ha consistido en la implemenaci贸n en Python de algoritmos capaces de resolver el problema en cuesti贸n. Para ello se ha creado una funci贸n cuya labor es calcular el seno dada cualquier x, otra que calcula las diferencias divididas a partir de una serie de nodos, una tercera que nos calcula el polinomio resultante que aproxima la funci贸n y por 煤ltimo una funcci贸n de prueba donde se dan unos valores comprendidos en el intervalo de aproximac铆on y compara su seno con el valor propuesto por nuestro polinomio.
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-\section{Descripci髇 del material}
+\section{Descripci贸n del material}
 \label{3:sec:2}
-
-bla, bla, etc. 
-
-
+    Para la realizaci贸n de este experimento el material necesario ha sido el siguiente:
+ \begin{itemize}
+  \item El ordenador usado en la realizacci贸n de dicho experimento ha sido un port谩til de la marca hp con un procesador Intel Atom{\tiny inside}. Este consta de 231,9 Gb de disco duro y 2 Gb de memoria RAM.
+  \item El sistema operativo con el que hemos trabajado es una adaptaci贸n de la distribuci贸n de Linux \textit{kubuntu} a las necesidades en cuanto a Software de los miembros de la comunidad universitaria ULL: Bardinux \cite{url:bardinux}. 
+   \begin{center}
+   \includegraphics[scale=0.15]{images/bardinux.eps}
+   \end{center}
+  \item Tambi茅n hemos hecho uso de materiales tales como calculadora, folio y l谩piz, pues han habido cuestiones que han sido necesarias resolver a mano para la posterior implementaci贸n del c贸digo.
+ \end{itemize}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \section{Resultados obtenidos}
 \label{3:sec:3}
+Tras la implementaci贸n del c贸digo y la obtenci贸n del polinomio de aproximaci贸n hemos comprobado su precisi贸n dando valores a las x y estos han sido resultados de algunos ejemplos:
+\vspace{100 true cm}
 
-bla, bla, etc. 
-
-
-%------------------------------------------------------------------------------
-\begin{figure}[!th]
-\begin{center}
-\includegraphics[width=0.75\textwidth]{images/figura1.eps}
-\caption{Ejemplo de figura}
-\label{fig:1}
-\end{center}
-\end{figure}
-%------------------------------------------------------------------------------
-
-
-%------------------------------------------------------------------------------
-\input{tables/table.tex}
-%------------------------------------------------------------------------------
+\includegraphics[scale=0.38]{images/comprobacion.eps}
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-\section{An醠isis de los resultados}
+\section{An谩lisis de los resultados}
 \label{3:sec:4}
 
 bla, bla, etc. 

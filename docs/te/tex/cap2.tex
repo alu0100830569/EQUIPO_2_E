@@ -4,8 +4,6 @@
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-En este capítulo se han de presentar los antecedentes teóricos y prácticos que
-apoyan el tema objeto de la investigación.
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -19,10 +17,9 @@ En análisis numérico, la interpolación polinomial es una técnica de interpol
   \[f(x_{k})=f_{k}, \hspace{0.5 cm} k=1,...,n\]\par
   Una gran ventaja sobre la forma clásica de Lagrange es que podemos agregar un mayor número de nodos a la tabla de datos, lo que nos facilitará en gran medida el cálculo del polinomio, sobretodo, en aquellos casos en los que el grado del polinomio que se quiere calcular es bastante elevado.\par Pongamos un ejemplo: el polinomio de grado n-1  resultante de aplicar este método, tendrá la forma:
   \[\sum_{i=0}^{n-1} {a_j}{g_j}(x)\]\par Donde:\par \[ g_{j}=\prod_{j=1}^{j-1}{(x-x_{i})}\]\par
-  \[ a_{j}=f[x_{0},x_{1},...,x_{j-1},x_{j},]\]\par Los coeficientes $a_{j}$ son las llamadas diferencias divididas. El cálculo de estas diferencias es el paso que caracteriza este método. Tenemos que las diferencias divididas serían de la forma siguiente:\par\par
+  \[ a_{j}=f[x_{0},x_{1},...,x_{j-1},x_{j},]\]\par Los coeficientes $a_{j}$ son las llamadas diferencias divididas. El cálculo de estas diferencias es el paso que caracteriza este método. Tenemos que las diferencias divididas serían de la forma siguiente:
   
-  
-  \par
+  \vspace{1.5 true cm}
   \begin{tabular}{|c|c|c|c|c|c|}
      \hline
      i & $x_{i}$ & $f[x_{i}]$ & $f[x_{i},x_{i+1}]$ & $f[x_{i}, x_{i+1}, x_{i+2}]$ & $f[x_{i},x_{i+1}, x_{i+2}, x_{i+3}]$ \\

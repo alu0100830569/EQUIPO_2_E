@@ -133,7 +133,7 @@
 % No funciona bien \markboth sin "twoside" en \documentclass, pero al
 % ponerlo se dan un montón de errores de underfull \vbox, con lo que no se
 % ha puesto.
-\markboth{Nombre del alumno}{Título del trabajo}
+\markboth{Francisco Reyes y Zoilo González}{Series de potencias: Newton}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Numeracion en romanos
@@ -195,7 +195,8 @@
 \thispagestyle{empty}
 \begin{appendix}
 
-\chapter{Título del Apéndice 1}
+\chapter{Algoritmos empleados}
+A continuación se recogen los diferentes algoritmos empleados para el análisis y la obtención del 
 \label{appendix:1}
 
 \input{tex/apendice1.tex}

@@ -8,14 +8,14 @@
 \contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
 \contentsline {section}{\numberline {3.1}Descripci\IeC {\'o}n de los experimentos}{4}
 \contentsline {section}{\numberline {3.2}Descripci\IeC {\'o}n del material}{4}
-\contentsline {section}{\numberline {3.3}Resultados obtenidos}{4}
-\contentsline {section}{\numberline {3.4}An\IeC {\'a}lisis de los resultados}{4}
+\contentsline {section}{\numberline {3.3}Resultados obtenidos}{5}
+\contentsline {section}{\numberline {3.4}An\IeC {\'a}lisis de los resultados}{5}
 \contentsline {chapter}{\numberline {4}Conclusiones}{6}
 \contentsline {chapter}{\numberline {A}Algoritmos empleados}{7}
 \contentsline {section}{\numberline {A.1}Algoritmo sin(x)}{7}
 \contentsline {section}{\numberline {A.2}Algoritmo Diferencias Divididas}{7}
 \contentsline {section}{\numberline {A.3}Algoritmo Interpolador de Newton}{8}
-\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\IeC {\'e}ndice 2}{9}
-\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{9}
-\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{9}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{9}
+\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\IeC {\'e}ndice 2}{10}
+\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{10}
+\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{10}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{10}
