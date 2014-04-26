@@ -107,3 +107,39 @@ para ello importamos la función anterior que nos calculaba las diferencias divi
 \end{verbatim}
 \end{footnotesize}
 \end{center}
+
+\section{Algoritmo para comprobacion}
+\label{Apendice4:WWW}
+
+\begin{center}
+\begin{footnotesize}
+\begin{verbatim}
+###################################################################################
+# comprobacion.py
+###################################################################################
+#!/usr/bin/python
+#!encoding: UTF-8
+from math import pi
+from math import sin
+import seno
+valores=(pi/4, pi/5, pi/6,2*pi/5)
+for i in valores:
+  print "El valor aproximado por el polinomio para x=%f es" %i
+  y=(0.311104)*(i**3)+(-0.733021)*(i**2)+(1.253448)*i
+  print "y=%f" %y
+  print "El seno de %f es" %i
+  f=seno.seno(i)
+  print "sen(x)=%f" %f
+  print "\n"
+
+
+# AUTORES:Zoilo González Garcia y Francisco Javier Reyes Sánchez
+#  
+# DESCRIPCION: Este último código nos permite valorar el polinomio obtenido en el código
+anterior. Para ello damos diferentes valores a la variable "x", y observamos el valor de 
+las aproximaciones realizadas.
+#
+###################################################################################
+\end{verbatim}
+\end{footnotesize}
+\end{center}

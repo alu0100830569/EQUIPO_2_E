@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  25 APR 2014 14:51
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  26 APR 2014 14:57
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -437,8 +437,8 @@ Ap\'{e}ndice A.
 
 ]
 Overfull \hbox (7.90361pt too wide) in paragraph at lines 107--107
-[]\OT1/cmtt/m/n/9 # DESCRIPCION: Este ^^Sultimo c^^Sodigo nos ayuda a mostar po
-r pantalla el polinomio que buscamos,[] 
+[]\OT1/cmtt/m/n/9 # DESCRIPCION: Este tercer c^^Sodigo nos ayuda a mostar por p
+antalla el polinomio que buscamos,[] 
  []
 
 [8]
@@ -455,12 +455,12 @@ Ap\'{e}ndice B.
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1935 strings out of 495062
- 22596 string characters out of 1182644
+ 1936 strings out of 495062
+ 22611 string characters out of 1182644
  78282 words of memory out of 3000000
- 5060 multiletter control sequences out of 15000+50000
+ 5061 multiletter control sequences out of 15000+50000
  13891 words of font info for 50 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  25i,8n,27p,1028b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (19 pages, 25104 bytes).
+Output written on memte.dvi (19 pages, 26588 bytes).

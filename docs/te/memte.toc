@@ -15,6 +15,7 @@
 \contentsline {section}{\numberline {A.1}Algoritmo sin(x)}{7}
 \contentsline {section}{\numberline {A.2}Algoritmo Diferencias Divididas}{7}
 \contentsline {section}{\numberline {A.3}Algoritmo Interpolador de Newton}{8}
+\contentsline {section}{\numberline {A.4}Algoritmo para comprobacion}{9}
 \contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\IeC {\'e}ndice 2}{10}
 \contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{10}
 \contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{10}
