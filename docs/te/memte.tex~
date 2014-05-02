@@ -196,12 +196,12 @@
 \begin{appendix}
 
 \chapter{Algoritmos empleados}
-A continuación se recogen los diferentes algoritmos empleados para el análisis y la obtención del 
+A continuación se recogen los diferentes algoritmos empleados para el análisis y la obtención del polinomio interpolador de Newton, para la función $f(x)=sin(x)$. Además, se ha implementado un algoritmo de comprobación de los resultados.
 \label{appendix:1}
 
 \input{tex/apendice1.tex}
 
-\chapter{Título del Apéndice 2}
+\chapter{Función seno}
 \label{appendix:2}
 
 \input{tex/apendice2.tex}
