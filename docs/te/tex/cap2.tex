@@ -20,16 +20,4 @@ En análisis numérico, la interpolación polinomial es una técnica de interpol
   \[ a_{j}=f[x_{0},x_{1},...,x_{j-1},x_{j},]\]\par Los coeficientes $a_{j}$ son las llamadas diferencias divididas. El cálculo de estas diferencias es el paso que caracteriza este método. Tenemos que las diferencias divididas serían de la forma siguiente:
   
   \vspace{1.5 true cm}
-  \begin{tabular}{|c|c|c|c|c|c|}
-     \hline
-     i & $x_{i}$ & $f[x_{i}]$ & $f[x_{i},x_{i+1}]$ & $f[x_{i}, x_{i+1}, x_{i+2}]$ & $f[x_{i},x_{i+1}, x_{i+2}, x_{i+3}]$ \\
-     \hline
-     0 & $x_{0}$ & $f[x_{0}]$ & & &\\
-       &         &            & & & $f[x_{0},x_{1}]$ \\
-     1 & $x_{1}$ & $f[x_{1}]$ & & $f[x_{0},x_{1},x_{2}]$ & \\
-       & & & $f[x_{1},x_{2}]$ & & $f[x_{0},x_{1}x_{2},x_{3}]$ \\
-     2 & $x_{2}$ & $f[x_{2}]$ & & $f[x_{1},x_{2},x_{3}]$ & \\
-       & & & $f[x_{2},x_{3}]$ & & \\
-     3 & $x_{3}$ & $f[x_{3}]$ & & & \\
-     \hline
-  \end{tabular}
+  \input{tables/table.tex}
