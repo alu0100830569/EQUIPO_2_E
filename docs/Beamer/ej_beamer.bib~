@@ -1,0 +1,11 @@
+@techreport{869377,
+ author = {Rossum, Guido},
+ title = {Python library reference},
+ year = {1995},
+ publisher = {CWI (Centre for Mathematics and Computer Science)},
+ address = {Amsterdam, The Netherlands, The Netherlands},
+ }
+ @MISC{URL:HTTP,
+   author    = "ACM LaTeX Style",
+   note      = {http://es.wikipedia.org/wiki/N%C3%BAmero_%CF%80\_style/}
+ }
