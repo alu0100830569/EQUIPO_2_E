@@ -18,7 +18,8 @@
 \contentsline {section}{\numberline {A.2}Algoritmo Diferencias Divididas}{9}
 \contentsline {section}{\numberline {A.3}Algoritmo Interpolador de Newton}{10}
 \contentsline {section}{\numberline {A.4}Algoritmo para comprobacion}{11}
-\contentsline {chapter}{\numberline {B}Funci\IeC {\'o}n seno}{12}
-\contentsline {section}{\numberline {B.1}En trigonometr\IeC {\'\i }a}{12}
-\contentsline {section}{\numberline {B.2}El seno en programaci\IeC {\'o}n}{13}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{13}
+\contentsline {section}{\numberline {A.5}Algoritmo de representci\IeC {\'o}n en Matplotlib}{11}
+\contentsline {chapter}{\numberline {B}Funci\IeC {\'o}n seno}{13}
+\contentsline {section}{\numberline {B.1}En trigonometr\IeC {\'\i }a}{13}
+\contentsline {section}{\numberline {B.2}El seno en programaci\IeC {\'o}n}{14}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{14}
