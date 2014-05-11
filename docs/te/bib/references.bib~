@@ -6,17 +6,6 @@
      address =   "Reading, MA" 
 }
 
-@Article{gopen:1990,
-  author = {Gopen, G.D. and Swan, J.A.},
-  journal = {American Scientist},
-  keywords = {SEMINAL doing-research writing-papers},
-  number = 6,
-  pages = {550--558},
-  title = {{The Science of Scientific Writing}},
-  volume = 78,
-  year = 1990
-}
-
 @techreport{869369,
  author = {Rossum, Guido},
  title = {Python reference manual},
