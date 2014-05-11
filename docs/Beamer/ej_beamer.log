@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.8)  11 MAY 2014 01:44
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.8)  11 MAY 2014 16:17
 entering extended mode
  %&-line parsing enabled.
 **ej_beamer.tex
@@ -1050,8 +1050,8 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <6> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 21.
 
 
-Overfull \hbox (63.2939pt too wide) detected at line 21
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) detected at line 21
+  [] [] [] [][][][] [] [] []  
  []
 
 File: img/ullesc.eps Graphic file (type eps)
@@ -1080,46 +1080,53 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 38.
 
 
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [1
 
 ] (./ej_beamer.toc)
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [2
 
 ] (./ej_beamer.toc)
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [3
 
 ] (./ej_beamer.toc)
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [4
 
 ] (./ej_beamer.toc)
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [5
 
 ] (./ej_beamer.toc)
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [6
+
+] (./ej_beamer.toc)
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
+ []
+
+[7
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
@@ -1129,31 +1136,22 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
 
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
- []
-
-[7
-
-]
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [8
 
 ]
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [9
 
 ]
-File: img/representacionseno.eps Graphic file (type eps)
- <img/representacionseno.eps>
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [10
@@ -1161,8 +1159,8 @@ Overfull \hbox (63.2939pt too wide) has occurred while \output is active
 ]
 File: img/representacionseno.eps Graphic file (type eps)
  <img/representacionseno.eps>
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [11
@@ -1170,8 +1168,8 @@ Overfull \hbox (63.2939pt too wide) has occurred while \output is active
 ]
 File: img/representacionseno.eps Graphic file (type eps)
  <img/representacionseno.eps>
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [12
@@ -1179,31 +1177,40 @@ Overfull \hbox (63.2939pt too wide) has occurred while \output is active
 ]
 File: img/representacionseno.eps Graphic file (type eps)
  <img/representacionseno.eps>
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
 [13
+
+]
+File: img/representacionseno.eps Graphic file (type eps)
+ <img/representacionseno.eps>
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
+ []
+
+[14
 
 ]
 File: img/portatil.eps Graphic file (type eps)
  <img/portatil.eps>
 File: img/bardinux.eps Graphic file (type eps)
  <img/bardinux.eps>
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[14
+[15
 
 ]
 File: img/comprobacion.eps Graphic file (type eps)
  <img/comprobacion.eps>
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[15
+[16
 
 ]
 File: img/Algoritmo1.eps Graphic file (type eps)
@@ -1212,11 +1219,11 @@ Overfull \vbox (191.48637pt too high) detected at line 123
  []
 
 
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[16
+[17
 
 ]
 File: img/Algoritmo2.eps Graphic file (type eps)
@@ -1225,11 +1232,11 @@ Overfull \vbox (191.48637pt too high) detected at line 127
  []
 
 
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[17
+[18
 
 ]
 File: img/Algoritmo3.eps Graphic file (type eps)
@@ -1238,11 +1245,11 @@ Overfull \vbox (191.48637pt too high) detected at line 131
  []
 
 
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[18
+[19
 
 ]
 File: img/Algoritmo4.eps Graphic file (type eps)
@@ -1251,11 +1258,11 @@ Overfull \vbox (191.48637pt too high) detected at line 135
  []
 
 
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[19
+[20
 
 ]
 File: img/Algoritmo5.eps Graphic file (type eps)
@@ -1264,11 +1271,18 @@ Overfull \vbox (98.50159pt too high) detected at line 140
  []
 
 
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[20
+[21
+
+]
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
+ []
+
+[22
 
 ] (./ej_beamer.bbl
 File: beamericonarticle.eps Graphic file (type eps)
@@ -1278,11 +1292,11 @@ File: beamericonarticle.eps Graphic file (type eps)
 File: beamericonarticle.eps Graphic file (type eps)
 
 <beamericonarticle.eps>)
-Overfull \hbox (63.2939pt too wide) has occurred while \output is active
-  [] [] [] [][][][] [] []  
+Overfull \hbox (108.80069pt too wide) has occurred while \output is active
+  [] [] [] [][][][] [] [] []  
  []
 
-[21
+[23
 
 ]
 \tf@nav=\write6
@@ -1301,12 +1315,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 14611 strings out of 495062
- 273986 string characters out of 1182645
- 347699 words of memory out of 3000000
- 17362 multiletter control sequences out of 15000+50000
+ 14620 strings out of 495062
+ 274074 string characters out of 1182645
+ 347700 words of memory out of 3000000
+ 17369 multiletter control sequences out of 15000+50000
  12191 words of font info for 44 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,20n,62p,425b,796s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ej_beamer.dvi (21 pages, 305288 bytes).
+Output written on ej_beamer.dvi (23 pages, 347808 bytes).
