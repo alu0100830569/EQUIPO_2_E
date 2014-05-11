@@ -1,9 +1,9 @@
 \beamer@endinputifotherversion {3.10pt}
 \beamer@sectionintoc {1}{Interpolador Polin\IeC {\'o}mico}{7}{0}{1}
 \beamer@sectionintoc {2}{C\IeC {\'a}lculo del Polinomio Interpolador de Newton}{8}{0}{2}
-\beamer@sectionintoc {3}{Ejercicios}{10}{0}{3}
-\beamer@subsectionintoc {3}{1}{Una subsecci\IeC {\'o}n}{10}{0}{3}
-\beamer@subsectionintoc {3}{2}{Creaci\IeC {\'o}n de diapositivas}{11}{0}{3}
-\beamer@subsectionintoc {3}{3}{Otra subseccion}{15}{0}{3}
-\beamer@sectionintoc {4}{Algoritmos}{17}{0}{4}
+\beamer@sectionintoc {3}{Procedimiento experimental}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Descripci\IeC {\'o}n de los experimentos}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Material}{14}{0}{3}
+\beamer@subsectionintoc {3}{3}{Resultados}{15}{0}{3}
+\beamer@sectionintoc {4}{Algoritmos}{16}{0}{4}
 \beamer@sectionintoc {5}{Bibliograf\IeC {\'\i }a}{21}{0}{5}

@@ -8,7 +8,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[Presentación con Beamer]{Polinomio Interpolador de Newton}
 \subtitle[Presentación con Beamer]{$f(x)=sin(x)$}
-\author[Técnicas Experimentales]{Francisco Javier Reyes Sánchez}
+\author[Técnicas Experimentales]{Francisco Javier Reyes Sánchez \\Zoilo González García}
 \date[25-03-2014]{25 de abril de 2014}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -81,60 +81,38 @@ Los coeficientes $a_{j}$ son las llamadas diferencias divididas.
 \[ a_{j}=f[x_{0},x_{1},...,x_{j-1},x_{j},]\]
 \end{frame}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-\section{Ejercicios}
+\section{Procedimiento experimental}
 
-\subsection{Una subsección}
+\subsection{Descripción de los experimentos}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 \begin{frame}
-\frametitle{Título de la diapositiva}
-
-Texto de la diapositiva
+\frametitle{Descripción de los experimentos}
+\begin{itemize}
+  \item <1-> Seno
+  \item <2-> Polinomio interpolador
+  \item <3-> Diferencias divididas
+  \item <4-> Comprobación  
+\end{itemize}
+\includegraphics[scale=0.35]{img/representacionseno.eps}
 \end{frame}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 
-\subsection{Creación de diapositivas}
+\subsection{Material}
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 \begin{frame}
-\frametitle{Diapositivas}
-
-\begin{definition}
-  Un ejemplo de definición
-\end{definition}
-
-\begin{example}
-  \begin{itemize}
-    \item <1-> Primero \pause
-    \item <2-> Segundo \pause
-    \item <3-> Tercero \pause
-    \item <4-> Cuarto  
-  \end{itemize}
-\end{example}
+\frametitle{Descripción del material}
+\includegraphics[scale=0.25]{img/portatil.eps}
+\includegraphics[scale=0.15]{img/bardinux.eps}
 
 \end{frame}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 
-\subsection{Otra subseccion}
+\subsection{Resultados}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 \begin{frame}
-\frametitle{Este es otro Título}
-
-\begin{definicion}
-  Otra definición 
-\end{definicion}
-
-\begin{ejemplo}
-  \begin{enumerate}
-    \item
-      Primero
-      \pause
-
-    \item
-      Segundo 
-
-  \end{enumerate}
-\end{ejemplo}
-
+\frametitle{Análisis de los resultados obtenidos}
+\includegraphics[width=0.5\textwidth]{img/comprobacion}
 \end{frame}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 %+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -156,13 +134,18 @@ Texto de la diapositiva
   \includegraphics[width=1.0\textwidth]{img/Algoritmo4}
 \end{frame}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+A.5. Algoritmo de representación gráfica
+  \includegraphics[width=0.75\textwidth]{img/Algoritmo5}
+\end{frame}
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \section{Bibliografía}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 \begin{frame}
   \frametitle{Bibliografía}
     \bibliographystyle{plain}
 
-    \bibliography{ej_beamer}
+    \bibliography{ej_beamer.bib}
 \end{frame}
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  

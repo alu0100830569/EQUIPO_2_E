@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.27)  9 MAY 2014 17:56
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.8)  11 MAY 2014 01:44
 entering extended mode
  %&-line parsing enabled.
 **ej_beamer.tex
@@ -866,6 +866,11 @@ Now handling font encoding PD1 ...
 \c@definicion=\count150
 \c@ejemplo=\count151
 
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 11.
+
+
 (/usr/share/texmf/tex/latex/beamer/base/themes/theme/compatibility/beamerthemec
 lassic.sty
 Package: beamerthemeclassic 2010/06/17  (rcs-revision d02a7cf4d8ae)
@@ -1045,7 +1050,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <6> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 21.
 
 
-Overfull \hbox (6.69421pt too wide) detected at line 21
+Overfull \hbox (63.2939pt too wide) detected at line 21
   [] [] [] [][][][] [] []  
  []
 
@@ -1063,6 +1068,9 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 38.
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
+Overfull \vbox (7.3202pt too high) detected at line 38
+ []
+
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/sc' in size <4> not available
 (Font)              size <5> substituted on input line 38.
@@ -1072,42 +1080,42 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 38.
 
 
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [1
 
 ] (./ej_beamer.toc)
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [2
 
 ] (./ej_beamer.toc)
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [3
 
 ] (./ej_beamer.toc)
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [4
 
 ] (./ej_beamer.toc)
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [5
 
 ] (./ej_beamer.toc)
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
@@ -1121,122 +1129,142 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
 
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [7
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [8
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [9
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+File: img/representacionseno.eps Graphic file (type eps)
+ <img/representacionseno.eps>
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [10
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+File: img/representacionseno.eps Graphic file (type eps)
+ <img/representacionseno.eps>
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [11
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+File: img/representacionseno.eps Graphic file (type eps)
+ <img/representacionseno.eps>
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [12
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+File: img/representacionseno.eps Graphic file (type eps)
+ <img/representacionseno.eps>
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [13
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+File: img/portatil.eps Graphic file (type eps)
+ <img/portatil.eps>
+File: img/bardinux.eps Graphic file (type eps)
+ <img/bardinux.eps>
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [14
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+File: img/comprobacion.eps Graphic file (type eps)
+ <img/comprobacion.eps>
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [15
 
 ]
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+File: img/Algoritmo1.eps Graphic file (type eps)
+ <img/Algoritmo1.eps>
+Overfull \vbox (191.48637pt too high) detected at line 123
+ []
+
+
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [16
 
 ]
-File: img/Algoritmo1.eps Graphic file (type eps)
- <img/Algoritmo1.eps>
-Overfull \vbox (191.48637pt too high) detected at line 145
+File: img/Algoritmo2.eps Graphic file (type eps)
+ <img/Algoritmo2.eps>
+Overfull \vbox (191.48637pt too high) detected at line 127
  []
 
 
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [17
 
 ]
-File: img/Algoritmo2.eps Graphic file (type eps)
- <img/Algoritmo2.eps>
-Overfull \vbox (191.48637pt too high) detected at line 149
+File: img/Algoritmo3.eps Graphic file (type eps)
+ <img/Algoritmo3.eps>
+Overfull \vbox (191.48637pt too high) detected at line 131
  []
 
 
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [18
 
 ]
-File: img/Algoritmo3.eps Graphic file (type eps)
- <img/Algoritmo3.eps>
-Overfull \vbox (191.48637pt too high) detected at line 153
+File: img/Algoritmo4.eps Graphic file (type eps)
+ <img/Algoritmo4.eps>
+Overfull \vbox (191.48637pt too high) detected at line 135
  []
 
 
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
 [19
 
 ]
-File: img/Algoritmo4.eps Graphic file (type eps)
- <img/Algoritmo4.eps>
-Overfull \vbox (191.48637pt too high) detected at line 157
+File: img/Algoritmo5.eps Graphic file (type eps)
+ <img/Algoritmo5.eps>
+Overfull \vbox (98.50159pt too high) detected at line 140
  []
 
 
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
@@ -1250,7 +1278,7 @@ File: beamericonarticle.eps Graphic file (type eps)
 File: beamericonarticle.eps Graphic file (type eps)
 
 <beamericonarticle.eps>)
-Overfull \hbox (6.69421pt too wide) has occurred while \output is active
+Overfull \hbox (63.2939pt too wide) has occurred while \output is active
   [] [] [] [][][][] [] []  
  []
 
@@ -1273,12 +1301,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 14658 strings out of 495062
- 275473 string characters out of 1182644
- 347622 words of memory out of 3000000
- 17414 multiletter control sequences out of 15000+50000
+ 14611 strings out of 495062
+ 273986 string characters out of 1182645
+ 347699 words of memory out of 3000000
+ 17362 multiletter control sequences out of 15000+50000
  12191 words of font info for 44 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,20n,62p,425b,796s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ej_beamer.dvi (21 pages, 314308 bytes).
+Output written on ej_beamer.dvi (21 pages, 305288 bytes).
